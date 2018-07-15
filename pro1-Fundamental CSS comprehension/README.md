@@ -17,5 +17,5 @@
 - CSS基础
 
 
-##成果展示
+## 成果展示
 参考results/[index.html](https://litaooooo.github.io/CSS-Projects/pro1-Fundamental%20CSS%20comprehension/results/index.html)
