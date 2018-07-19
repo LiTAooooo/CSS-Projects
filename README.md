@@ -9,3 +9,5 @@
 - Trainning2: [Typesetting a community school homepage](Trainning2-Typesetting%20a%20community%20school%20homepage)
 
 - Trainning3: [Creating fancy letterheaded paper](Trainning3-Creating%20fancy%20letterheaded%20paper)
+
+- Trainning4: [A cool looking box](Trainning4-A%20cool%20looking%20box)
