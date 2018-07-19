@@ -7,3 +7,5 @@
 - Pro1: [Fundamental CSS comprehension](pro1-Fundamental%20CSS%20comprehension)
 
 - Pro2: [Typesetting a community school homepage](pro2-Typesetting%20a%20community%20school%20homepage)
+
+- Pro3: [pro3-Creating fancy letterheaded paper](pro3-Creating%20fancy20%letterheaded20%paper)
