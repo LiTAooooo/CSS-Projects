@@ -22,4 +22,4 @@
 - 兼容性基础
 
 ## 成果展示
-参考results/[index.html](https://litaooooo.github.io/CSS-Projects/pro3-Creating%20fancy20%letterheaded20%paper/results/index.html).
+参考results/[index.html](https://litaooooo.github.io/CSS-Projects/pro3-Creating%20fancy%20letterheaded%20paper/results/index.html).
