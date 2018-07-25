@@ -11,3 +11,5 @@
 - Trainning3: [Creating fancy letterheaded paper](Trainning3-Creating%20fancy%20letterheaded%20paper)
 
 - Trainning4: [A cool looking box](Trainning4-A%20cool%20looking%20box)
+
+- Trainning5: [Fundamental Layout Comprehension](Trainning5-Fundamental%20Layout%20Comprehension)
